@@ -1,3 +1,6 @@
+# data files
+data/
+
 # Secrets and Credentials
 .env
 
